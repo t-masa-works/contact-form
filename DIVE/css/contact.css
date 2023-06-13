@@ -1,0 +1,33 @@
+.sex {
+    margin-left:10px;
+}
+
+.form-text {
+    width: 480px;
+    margin-left: 10px;
+    border-radius: 3px;
+    border: 2px solid rgb(170, 170, 170);
+}
+
+.contact th {
+    width: 150px;
+    height: 7rem;
+    text-align: right;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 3rem;
+    color: #fff;
+    background-color: #008b8b;
+    border: none;
+    text-align: center;
+}
+
+.btn:hover {
+    opacity: 0.5;
+}
+
+.submit {
+    text-align: center;
+}

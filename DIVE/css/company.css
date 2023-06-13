@@ -1,0 +1,26 @@
+.company {
+    border-collapse: collapse;
+}
+
+.company tr {
+    height: 5rem;
+}
+
+.company tr:last-child th {
+    border-bottom: #b1b1b1;
+}
+
+.company th {
+    width: 100px;
+    background-color: #b1b1b1;
+    color: #fff;
+    border-bottom: solid 1px #fff;
+}
+
+.company td {
+    width:560px;
+    padding-left: 1rem;
+    border: solid 1px #b1b1b1;
+}
+
+.s
